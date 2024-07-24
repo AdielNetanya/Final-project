@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79de341c-6f75-4b62-8fff-6bae2bc3f8bd" name="Changes" comment="feat: update option">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/users.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/users.js" afterDir="false" />
-    </list>
+    <list default="true" id="79de341c-6f75-4b62-8fff-6bae2bc3f8bd" name="Changes" comment="feat: users crud" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +66,7 @@
       <workItem from="1721635869452" duration="34000" />
       <workItem from="1721635913246" duration="18160000" />
       <workItem from="1721657739633" duration="2629000" />
-      <workItem from="1721722198654" duration="18776000" />
+      <workItem from="1721722198654" duration="19098000" />
     </task>
     <task id="LOCAL-00001" summary="fix: index.js">
       <created>1721726558456</created>
@@ -92,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1721739806652</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: users crud">
+      <created>1721818401822</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721818401822</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +117,7 @@
     <MESSAGE value="fix: index.js" />
     <MESSAGE value="feat: login" />
     <MESSAGE value="feat: update option" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: update option" />
+    <MESSAGE value="feat: users crud" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: users crud" />
   </component>
 </project>
