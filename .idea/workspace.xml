@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79de341c-6f75-4b62-8fff-6bae2bc3f8bd" name="Changes" comment="feat: post crud">
-      <change afterPath="$PROJECT_DIR$/adiel-react/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adiel-react/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adiel-react/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adiel-react/public/assets/gift.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adiel-react/public/assets/heart.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adiel-react/public/assets/like.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adiel-react/public/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adiel-react/src/components/top/Topbar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adiel-react/src/components/top/topbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adiel-react/src/pages/home/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adiel-react/src/pages/home/home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="79de341c-6f75-4b62-8fff-6bae2bc3f8bd" name="Changes" comment="fix: things" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +74,7 @@
       <workItem from="1721635913246" duration="18160000" />
       <workItem from="1721657739633" duration="2629000" />
       <workItem from="1721722198654" duration="21874000" />
-      <workItem from="1724829274206" duration="2599000" />
+      <workItem from="1724829274206" duration="3417000" />
     </task>
     <task id="LOCAL-00001" summary="fix: index.js">
       <created>1721726558456</created>
@@ -131,7 +118,21 @@
       <option name="project" value="LOCAL" />
       <updated>1721820557803</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="fix: things">
+      <created>1724838565770</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724838565770</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fix: things">
+      <created>1724838759510</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724838759510</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +156,7 @@
     <MESSAGE value="feat: users crud" />
     <MESSAGE value="feat: Post.js" />
     <MESSAGE value="feat: post crud" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: post crud" />
+    <MESSAGE value="fix: things" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: things" />
   </component>
 </project>
